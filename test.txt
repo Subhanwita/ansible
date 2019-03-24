@@ -1,12 +1,1 @@
-test
-iiiiiii
-hhhh
-
-
-aaaa
-
-
-
-
-
-ccc
+echo "Subhanwita"
